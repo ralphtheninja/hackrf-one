@@ -11,6 +11,9 @@
 - [Tutorials](#tutorials)
 - [Accessories](#accessories)
 - [Software](#software)
+- [Media](#media)
+  - [Video](#video)
+  - [Articles](#articles)
 - [Lingo](#lingo)
 - [Other Devices](#other-devices)
 
@@ -51,6 +54,20 @@ TODO fill up list
 
 - `GNU Radio` (TODO)
 - `SDR#` (TODO)
+
+## Media
+
+### Video
+
+- [`DEF CON 23 - Wireless Village - Balint Seeber - SIGINT & Blind Signal Analysis w/ GNU Radio & SDR`](https://www.youtube.com/watch?v=drsgh_PZmJ8)
+- [`DEF CON 23 - Wireless Village - Tim Oshea - GNU Radio Tools for Radio Wrangling/Spectrum Domination`](https://www.youtube.com/watch?v=CrHNlu8TbJg&feature=emb_logo)
+- [`DEF CON 23 - Wireless Village - Michael Calabro - Software Defined Radio Performance Trades & Tweaks`](https://www.youtube.com/watch?v=0WzM4K35jIU&feature=emb_logo)
+- [`DEF CON 23 - Wireless Village - Karl Koscher - DSP for SDR`](https://www.youtube.com/watch?v=y3O-t2UfL0o&feature=emb_logo)
+- [`DEF CON 23 - Samy Kamkar - Drive it like you Hacked it: New Attacks and Tools to Wireless`](https://www.youtube.com/watch?v=UNgvShN4USU&feature=emb_logo)
+
+### Articles
+
+TODO
 
 ## Lingo
 
