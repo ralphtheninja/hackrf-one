@@ -43,7 +43,7 @@ SDR stands for Software Defined Radio. TODO.
 ## Software
 
 - `GNU Radio` (TODO)
-- `SRD#` (TODO)
+- `SDR#` (TODO)
 
 ## Lingo
 
