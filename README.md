@@ -11,6 +11,7 @@
 - [Tutorials](#tutorials)
 - [Software](#software)
 - [Lingo](#lingo)
+- [Other Devices](#other-devices)
 
 </details>
 
@@ -49,4 +50,10 @@ SDR stands for Software Defined Radio. TODO.
 - `Receiver` A device that can only receive. Usually cheaper.
 - `Transceiver` A device that can both send and receive.
 - `Half duplex` Means that a device that can send and receive can either send or receive, but not at the same time. Usually cheaper.
-- `Full duplex` Means that a device that can send and receive can do so simultaneously.
+- `Full duplex` Means that a device that can send and receive can do so simultaneously. Usually more expensive.
+
+## Other Devices
+
+TODO fill up
+
+- `rad1o` (TODO)
