@@ -1,0 +1,14 @@
+{
+  "name": "hackrf-one",
+  "version": "0.0.0",
+  "description": "> Awesomeish readme for gathering resources around [`HackRF One`](https://greatscottgadgets.com/hackrf/one/).",
+  "scripts": {
+    "hallmark": "hallmark"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hallmark": "^3.1.0"
+  }
+}
