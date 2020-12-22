@@ -50,10 +50,8 @@ SDR stands for Software Defined Radio. TODO.
 
 ## Software
 
-TODO fill up list
-
-- `GNU Radio` (TODO)
-- `SDR#` (TODO)
+- [`GNU Radio`](https://www.gnuradio.org/)
+- [`SDR#`](https://airspy.com/download)
 
 ## Media
 
