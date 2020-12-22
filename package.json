@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "> Awesomeish readme for gathering resources around [`HackRF One`](https://greatscottgadgets.com/hackrf/one/).",
   "scripts": {
-    "hallmark": "hallmark"
+    "hallmark": "hallmark --fix"
   },
   "keywords": [],
   "author": "",
