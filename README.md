@@ -9,6 +9,7 @@
 - [Specs](#specs)
 - [What is SDR?](#what-is-sdr)
 - [Tutorials](#tutorials)
+- [Accessories](#accessories)
 - [Software](#software)
 - [Lingo](#lingo)
 - [Other Devices](#other-devices)
@@ -40,7 +41,13 @@ SDR stands for Software Defined Radio. TODO.
 
 - [`Software Defined Radio with HackRF`](https://greatscottgadgets.com/sdr/1/) (Introduction to `SDR`, `HackRF One` and `GNU Radio`)
 
+## Accessories
+
+- [`ANT500`](https://greatscottgadgets.com/ant500/) telescope antenna
+
 ## Software
+
+TODO fill up list
 
 - `GNU Radio` (TODO)
 - `SDR#` (TODO)
