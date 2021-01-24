@@ -52,6 +52,7 @@ SDR stands for Software Defined Radio. TODO.
 
 - [`GNU Radio`](https://www.gnuradio.org/)
 - [`SDR#`](https://airspy.com/download)
+- [`GQRX`](https://gqrx.dk/) For reading signals (visualizing, recording). Based on `GNU Radio`.
 
 ## Media
 
