@@ -57,6 +57,7 @@ SDR stands for Software Defined Radio. TODO.
 
 ### Video
 
+- [`Remoticon 2020 // Radi-uhoh: What is this SDR thing and how do I use it?`](https://www.youtube.com/watch?v=zQzxLsGvN3g)
 - [`DEF CON 23 - Wireless Village - Balint Seeber - SIGINT & Blind Signal Analysis w/ GNU Radio & SDR`](https://www.youtube.com/watch?v=drsgh_PZmJ8)
 - [`DEF CON 23 - Wireless Village - Tim Oshea - GNU Radio Tools for Radio Wrangling/Spectrum Domination`](https://www.youtube.com/watch?v=CrHNlu8TbJg&feature=emb_logo)
 - [`DEF CON 23 - Wireless Village - Michael Calabro - Software Defined Radio Performance Trades & Tweaks`](https://www.youtube.com/watch?v=0WzM4K35jIU&feature=emb_logo)
