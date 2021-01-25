@@ -55,6 +55,7 @@ SDR stands for Software Defined Radio. TODO.
 - [`GQRX`](https://gqrx.dk/) For reading signals (visualizing, recording). Based on `GNU Radio`.
 - [`SDRAngel`](https://limemicro.com/community/sdrangel/) For reading signals. You can also use it to broadcast.
 - [`ShinySDR`](https://shinysdr.switchb.org/) For reading signals. Web based.
+- [`SRH - Universal Radio Hacker`](https://pypi.org/project/urh/) Capture and reverse engineer / analyze signals.
 
 ## Media
 
