@@ -56,6 +56,7 @@ SDR stands for Software Defined Radio. TODO.
 - [`SDRAngel`](https://limemicro.com/community/sdrangel/) For reading signals. You can also use it to broadcast.
 - [`ShinySDR`](https://shinysdr.switchb.org/) For reading signals. Web based.
 - [`SRH - Universal Radio Hacker`](https://pypi.org/project/urh/) Capture and reverse engineer / analyze signals.
+- [`SigDigger`](https://batchdrake.github.io/SigDigger/) Also for reverse engineering signals.
 
 ## Media
 
