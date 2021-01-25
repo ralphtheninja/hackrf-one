@@ -57,6 +57,7 @@ SDR stands for Software Defined Radio. TODO.
 - [`ShinySDR`](https://shinysdr.switchb.org/) For reading signals. Web based.
 - [`SRH - Universal Radio Hacker`](https://pypi.org/project/urh/) Capture and reverse engineer / analyze signals.
 - [`SigDigger`](https://batchdrake.github.io/SigDigger/) Also for reverse engineering signals.
+- [`REDHAWK`](https://redhawksdr.org/) Similar to GNU Radio. Treat multiple transmitters and receivers as "concerts". Made by the NSA.
 
 ## Media
 
